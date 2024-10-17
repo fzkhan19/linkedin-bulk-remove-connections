@@ -2,7 +2,7 @@
 Steps:
 1. Go to https://www.linkedin.com/mynetwork/invite-connect/connections/
 2. Open Developer Console (Press F12)
-3. Go to console and paste this in:
+3. Go to console and paste this in and press Enter↩:
 
 ```js
 var JQ = $ ;
